@@ -5,4 +5,5 @@ class MyAction(Action):
 
     def run(self, message):
         print(message)
+        print("working")
         return(True,message)
