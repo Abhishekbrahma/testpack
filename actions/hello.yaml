@@ -7,6 +7,5 @@ entry_point: hello.py
 parameters:
    messsage:
         type: string
-        description: print hello world!
-	required: true
+        description: print hello world
 	position: 1
