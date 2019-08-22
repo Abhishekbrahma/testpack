@@ -1,7 +1,7 @@
 ---
-ref: polling_sensorAbhi
-name: Polling Sensor Api
-description: Polling Sensor Api For testing purpose.
+ref: training_pack
+name: Training Pack
+description: For training purpose.
 keywords:
      - Api
      - polling

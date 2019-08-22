@@ -1,5 +1,5 @@
 name: hello
-pack: polling_sensorAbhi
+pack: training_pack
 runner_type: "python-script"
 description: print hello world!
 enabled: true
