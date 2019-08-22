@@ -1,12 +1,12 @@
-name:hello
-pack:polling_sensorAbhi
-runner_type:"python-script"
-description:print hello world!
-enabled:true
-entry_point:hello.py
+name: hello
+pack: polling_sensorAbhi
+runner_type: "python-script"
+description: print hello world!
+enabled: true
+entry_point: hello.py
 parameters:
    messsage:
-        type:string
-        description:print hello world!
-	required:true
-	position:1
+        type: string
+        description: print hello world!
+	required: true
+	position: 1
